@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valiantsina
 - 👀 I’m interested in self-learning, languages and travelling
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
+- 🌱 Technologies: HTML, CSS, JavaScript, React, Redux, node.js
 
 <!---
 v-yelina/v-yelina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
